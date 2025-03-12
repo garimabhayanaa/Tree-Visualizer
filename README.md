@@ -37,22 +37,22 @@
 - Select the desired tree visualization.
 - View the sorted and structured tree representation.
 
-##Usage
+## Usage
 1. **Input an Array**: Type or paste a list of numbers into the array input field.
 2. **Choose a Tree Type**: Select from Binary Tree, BST, Min Heap, or Max Heap.
 3. **Visualize**: Click the visualize button to generate the tree structure.
 
-##Future Enhancements
+## Future Enhancements
 - Implement animations for tree transformations.
 - Allow users to insert/delete nodes dynamically.
 - Support additional tree types like AVL Trees and Red-Black Trees.
 
-##Contributing
+## Contributing
 Contributions are welcome! Feel free to submit pull requests or open issues for improvements.
 
-##License
+## License
 This project is licensed under the MIT License.
 
-##Acknowledgments
+## Acknowledgments
 Thanks to the developers of JavaScript visualization libraries.
 Inspired by common data structure visualizers for better learning and understanding.
