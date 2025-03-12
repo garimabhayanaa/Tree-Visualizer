@@ -26,7 +26,7 @@
 ### Steps  
 1. **Clone the Repository:**  
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/garimabhayanaa/Tree-Visualizer
    cd Tree-Visualizer
 2. **Open the index.html file in a browser.**
 - Alternatively, you can use a local server for better performance:
